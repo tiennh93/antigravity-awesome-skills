@@ -15,6 +15,25 @@
 
 > **🌟 21,000+ GitHub Stars Milestone!** Thank you to the community for turning this into one of the largest skill libraries in this category.
 
+## Table of Contents
+
+- [Quick Start](#quick-start)
+- [Choose Your Tool](#choose-your-tool)
+- [What This Repo Includes](#what-this-repo-includes)
+- [Project Structure](#project-structure)
+- [Top Starter Skills](#top-starter-skills)
+- [Three Real Examples](#three-real-examples)
+- [Browse 1,204+ Skills](#browse-1204-skills)
+- [Documentation](#documentation)
+- [Web App](#web-app)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Support the Project](#support-the-project)
+- [Credits & Sources](#credits--sources)
+- [Repo Contributors](#repo-contributors)
+- [License](#license)
+- [Star History](#star-history)
+
 ## Quick Start
 
 1. Install once:
